@@ -1,0 +1,11 @@
+{
+  "client_id": "kunskapat",
+  "client_display_name": "Kunskapat",
+  "reports": [
+    {
+      "file": "2026-04.html",
+      "month": "2026-04",
+      "label": "April 2026"
+    }
+  ]
+}
